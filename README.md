@@ -55,13 +55,24 @@ iOS_2D_Demo
 
 ### 截图效果
 
-![map](https://raw.githubusercontent.com/tabsong/iOS_3D_Demo/master/ResourcesBed/mapScreen.png)
-![search](https://raw.githubusercontent.com/tabsong/iOS_3D_Demo/master/ResourcesBed/searchScreen.png)
+![main](Resources/0-main.png)
+
+![basemap](Resources/1-basemap.png)
+
+![traffic](Resources/2-traffic.png)
+
+![annotation](Resources/3-annotation.png)
+
+![customAnnotation](Resources/4-customAnnotation.png)
+
+![overlay](Resources/5-overlay.png)
+
+![snapshot](Resources/6-snapshot.png)
 
 ### 在线安装Demo
 
 * `手机扫描如下二维码直接安装`
 
-![twoDemision](https://raw.githubusercontent.com/tabsong/iOS_3D_Demo/master/ResourcesBed/twoDimensionCode.png)
+![qrcode](Resources/qrcode.png)
 
 * `手机上打开地址:<http://fir.im/amap2d>`
