@@ -30,6 +30,13 @@ iOS_2D_Demo
     - `UserLocationViewController` 定位
     - `ScreenShotViewController` 截屏
     - `CustomUserLocationViewController` 自定义定位annotationView
+    - `PoiViewController` POI搜索
+    - `NavigationViewController` 路径规划
+    - `GeoViewController` 地理编码+输入提示
+    - `InvertGeoViewController` 逆地理编码
+    - `BusLineViewController` 公交线路查询
+    - `BusStopViewController` 公交站查询
+   
 
 ##### Models
 
