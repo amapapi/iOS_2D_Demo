@@ -8,7 +8,7 @@
 
 #import "TileOverlayViewController.h"
 
-#define TileOverlayViewControllerTemplate   @"http://106.3.73.18:8080/tileserver/Tile?x={x}&y={y}&z={z}&f=%d"
+#define TileOverlayViewControllerTemplate   @"http://sdkdemo.amap.com:8080/tileserver/Tile?x={x}&y={y}&z={z}&f=%d"
 #define TileOverlayViewControllerMinimumZ   18
 #define TileOverlayViewControllerMaximumZ   20
 #define TileOverlayViewControllerCoordinate CLLocationCoordinate2DMake(39.910695, 116.372830)
