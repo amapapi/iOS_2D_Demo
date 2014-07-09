@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>241F9C68-38A7-409B-B915-2F7C69BEA282</string>
+	<key>IDESourceControlProjectName</key>
+	<string>officialDemo2D</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>55B350CE-305F-4C5F-B5A9-D513C549F9C0</key>
+		<string>http://10.2.134.39/svn/AMapKit/MAMapSDK/trunk/2DVersion/officialDemo2D</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>officialDemo2DNew/officialDemo2D.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>55B350CE-305F-4C5F-B5A9-D513C549F9C0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>55B350CE-305F-4C5F-B5A9-D513C549F9C0</key>
+		<string>http://10.2.134.39/svn/AMapKit</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://10.2.134.39/svn/AMapKit/MAMapSDK/trunk/2DVersion/officialDemo2D/officialDemo2D.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>55B350CE-305F-4C5F-B5A9-D513C549F9C0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>MAMapSDK/trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>55B350CE-305F-4C5F-B5A9-D513C549F9C0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>officialDemo2DNew</string>
+		</dict>
+	</array>
+</dict>
+</plist>
