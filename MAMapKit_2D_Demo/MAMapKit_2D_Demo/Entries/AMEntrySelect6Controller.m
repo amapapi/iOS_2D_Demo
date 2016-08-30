@@ -11,13 +11,13 @@
 @implementation AMEntrySelect6Controller
 
 - (void)initEntries {
-    self.entryTitles = @[//@"其他坐标系转换为高德坐标系",
+    self.entryTitles = @[@"其他坐标系转换为高德坐标系",
                          @"地理坐标与屏幕像素坐标相互转换",
                          @"两点间距离计算",
                          @"点与线的距离计算",
                          @"判断点是否在多边形内"];
     
-    self.entryClasses = @[//@"",
+    self.entryClasses = @[@"CooridinateSystemConvertController",
                           @"CoordinateConvertViewController",
                           @"DistanceCalculateViewController",
                           @"DistanceCalculateViewController2",

@@ -173,6 +173,7 @@
 		B675DEDE1D6EA3DC00362D62 /* WeatherViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B675DEDD1D6EA3DC00362D62 /* WeatherViewController.m */; };
 		B675DEE41D6EA42000362D62 /* MAWeatherForecastView.m in Sources */ = {isa = PBXBuildFile; fileRef = B675DEE11D6EA42000362D62 /* MAWeatherForecastView.m */; };
 		B675DEE51D6EA42000362D62 /* MAWeatherLiveView.m in Sources */ = {isa = PBXBuildFile; fileRef = B675DEE31D6EA42000362D62 /* MAWeatherLiveView.m */; };
+		B675DEFB1D758FFA00362D62 /* CooridinateSystemConvertController.m in Sources */ = {isa = PBXBuildFile; fileRef = B675DEFA1D758FFA00362D62 /* CooridinateSystemConvertController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -466,6 +467,8 @@
 		B675DEE11D6EA42000362D62 /* MAWeatherForecastView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MAWeatherForecastView.m; sourceTree = "<group>"; };
 		B675DEE21D6EA42000362D62 /* MAWeatherLiveView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MAWeatherLiveView.h; sourceTree = "<group>"; };
 		B675DEE31D6EA42000362D62 /* MAWeatherLiveView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MAWeatherLiveView.m; sourceTree = "<group>"; };
+		B675DEF91D758FFA00362D62 /* CooridinateSystemConvertController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CooridinateSystemConvertController.h; sourceTree = "<group>"; };
+		B675DEFA1D758FFA00362D62 /* CooridinateSystemConvertController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CooridinateSystemConvertController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1034,6 +1037,8 @@
 		B6108F941D5DB81500C359A7 /* mapTools */ = {
 			isa = PBXGroup;
 			children = (
+				B675DEF91D758FFA00362D62 /* CooridinateSystemConvertController.h */,
+				B675DEFA1D758FFA00362D62 /* CooridinateSystemConvertController.m */,
 				B6108F951D5DB84600C359A7 /* InsideTestViewController.h */,
 				B6108F961D5DB84600C359A7 /* InsideTestViewController.m */,
 				B6108F981D5DB89100C359A7 /* DistanceCalculateViewController.h */,
@@ -1195,6 +1200,7 @@
 				B6108EE11D5C899200C359A7 /* PathDetailViewController.m in Sources */,
 				B6108F831D5DB25A00C359A7 /* AMEntrySelect7Controller.m in Sources */,
 				B6108C471D5C761E00C359A7 /* CommonUtility.m in Sources */,
+				B675DEFB1D758FFA00362D62 /* CooridinateSystemConvertController.m in Sources */,
 				B6108F3C1D5D67A800C359A7 /* CloudPOIIDSearchViewController.m in Sources */,
 				B6108EE21D5C899200C359A7 /* PoiDetailViewController.m in Sources */,
 				B6108F761D5DA23D00C359A7 /* RoutePlanBusViewController.m in Sources */,
